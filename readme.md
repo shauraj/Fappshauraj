@@ -9,3 +9,9 @@ When you call the function, be sure you checkout which security rules you apply.
 ## Learn more
 
 <TODO> Documentation
+
+
+# CosmosDBTrigger - C<span>#</span>
+
+<TODO> Documentation
+
